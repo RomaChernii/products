@@ -1,0 +1,6 @@
+Product_Name;Qty;Warehouse
+"""Product 1""";5;WH1
+"""Product 2""";5;WH1
+"""Product 3""";-2;WH2
+"""Product 4""";7;WH2
+"""Product 4""";-3;WH1
